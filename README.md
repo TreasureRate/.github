@@ -1,0 +1,2 @@
+# .github
+TreasureRate organization profile
